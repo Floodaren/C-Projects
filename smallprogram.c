@@ -32,7 +32,7 @@ int main()
     printf("The total is : %d\n", total);
     printf("The howmany is : %d\n", howMany);
 
-    printf("The average of the numbers are %f", avarage);
+    printf("The average of the numbers are %f\n", avarage);
     
     //Free memory that has be allocated in the heap.
     free(pPointsArray);
